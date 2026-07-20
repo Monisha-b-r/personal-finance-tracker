@@ -45,27 +45,17 @@ personal-finance-tracker/
     └── package.json
 ```
 
-## 📸 Screenshots
+![Login](backend/screenshots/login.png)
 
-### Login
+![Dashboard](backend/screenshots/dashboard.png)
 
-![Login](screenshots/login.png)
+![Transactions](backend/screenshots/transaction.png)
 
-### Dashboard
+![Budget](backend/screenshots/budget.png)
 
-![Dashboard](screenshots/dashboard.png)
+![Report](backend/screenshots/report.png)
 
-### Transactions
-
-![Transactions](screenshots/transactions.png)
-
-### Budget
-
-![Budget](screenshots/budget.png)
-
-### PDF Report
-
-![PDF](screenshots/report.png)
+![PDF](backend/screenshots/pdf-report.png)
 
 ## ⚙ Installation
 
