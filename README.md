@@ -115,7 +115,7 @@ npm start
 **Monisha B R**
 
 LinkedIn:
-(Add your LinkedIn)
+www.linkedin.com/in/monisha-b-r-049875239
 
 GitHub:
 https://github.com/Monisha-b-r
